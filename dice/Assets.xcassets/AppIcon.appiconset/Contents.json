@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "ChatGPT Image 28. Feb. 2026, 22_37_09.png",
+      "filename" : "dice-app-icon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "dice-app-icon-drak.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
